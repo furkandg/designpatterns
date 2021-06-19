@@ -1,0 +1,13 @@
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.exe
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.deps.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.runtimeconfig.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.runtimeconfig.dev.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\bin\Debug\netcoreapp3.1\Flyweight Pattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.csprojAssemblyReference.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.AssemblyInfoInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.AssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.csproj.CoreCompileInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Flyweight Pattern\Flyweight Pattern\Flyweight Pattern\obj\Debug\netcoreapp3.1\Flyweight Pattern.genruntimeconfig.cache
