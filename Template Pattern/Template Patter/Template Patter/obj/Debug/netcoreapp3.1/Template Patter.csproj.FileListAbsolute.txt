@@ -1,0 +1,13 @@
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.exe
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.deps.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.runtimeconfig.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.runtimeconfig.dev.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\bin\Debug\netcoreapp3.1\Template Patter.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.csprojAssemblyReference.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.AssemblyInfoInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.AssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.csproj.CoreCompileInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Template Pattern\Template Patter\Template Patter\obj\Debug\netcoreapp3.1\Template Patter.genruntimeconfig.cache

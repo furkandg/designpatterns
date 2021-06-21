@@ -2,4 +2,6 @@ Design Patterns:
 
 - Factory Design Pattern
 
-- Flyweight Patter
+- Flyweight Pattern
+
+- Template Pattern
