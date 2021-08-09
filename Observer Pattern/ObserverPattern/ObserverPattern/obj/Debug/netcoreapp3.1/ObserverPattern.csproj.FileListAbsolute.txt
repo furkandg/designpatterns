@@ -1,0 +1,13 @@
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csprojAssemblyReference.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\Observer Pattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.genruntimeconfig.cache

@@ -5,3 +5,5 @@ Design Patterns:
 - Flyweight Pattern
 
 - Template Pattern
+
+- Observer Pattern
