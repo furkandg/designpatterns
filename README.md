@@ -2,8 +2,16 @@ Design Patterns:
 
 - Factory Design Pattern
 
-- Flyweight Pattern
+- Flyweight Design  Pattern
 
-- Template Pattern
+- Template Design  Pattern
 
-- Observer Pattern
+- Observer Design  Pattern
+
+- Null Object Pattern
+
+- Singleton Design Pattern
+
+- Mediator Design Pattern
+
+- Facade Design Pattern
