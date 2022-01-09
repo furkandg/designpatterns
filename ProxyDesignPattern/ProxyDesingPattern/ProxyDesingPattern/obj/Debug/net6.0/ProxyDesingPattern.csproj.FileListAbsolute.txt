@@ -1,0 +1,15 @@
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ProxyDesingPattern.exe
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ProxyDesingPattern.deps.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ProxyDesingPattern.runtimeconfig.json
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ProxyDesingPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ref\ProxyDesingPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\bin\Debug\net6.0\ProxyDesingPattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.csproj.AssemblyReference.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.AssemblyInfoInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.AssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.csproj.CoreCompileInputs.cache
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ref\ProxyDesingPattern.dll
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.pdb
+D:\Furkan_yapılan_projeler\web\Design_patterns\ProxyDesignPattern\ProxyDesingPattern\ProxyDesingPattern\obj\Debug\net6.0\ProxyDesingPattern.genruntimeconfig.cache
