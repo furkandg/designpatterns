@@ -17,3 +17,5 @@ Design Patterns:
 - Facade Design Pattern
 
 - Proxy Design Pattern
+
+- Iterator Design Pattern
