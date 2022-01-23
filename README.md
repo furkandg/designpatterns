@@ -19,3 +19,5 @@ Design Patterns:
 - Proxy Design Pattern
 
 - Iterator Design Pattern
+
+- State Design Pattern
