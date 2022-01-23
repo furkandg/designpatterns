@@ -21,3 +21,5 @@ Design Patterns:
 - Iterator Design Pattern
 
 - State Design Pattern
+
+- Strategy Design Pattern
